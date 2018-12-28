@@ -1,4 +1,4 @@
-package entity;
+package com.yang.entity;
 
 /**
  * 图书实体

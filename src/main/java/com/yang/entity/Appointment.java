@@ -1,4 +1,4 @@
-package entity;
+package com.yang.entity;
 
 import java.util.Date;
 
